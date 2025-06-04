@@ -1,0 +1,63 @@
+# 💡 Lights On/Off Web App
+
+This is a simple and interactive dynamic web application that toggles between "Lights ON" and "Lights OFF" states. It visually switches a bulb and a cat image based on the button clicks, demonstrating dynamic DOM manipulation using JavaScript.
+
+## 🚀 Live Demo
+
+You can view the project live here: **[Add GitHub Pages or Netlify Link if hosted]**
+
+---
+
+## 📸 Preview
+
+| Light On | Light Off |
+|----------|-----------|
+| ![On](https://d1tgh8fmlzexmh.cloudfront.net/ccbp-dynamic-webapps/bulb-go-on-img.png) | ![Off](https://d1tgh8fmlzexmh.cloudfront.net/ccbp-dynamic-webapps/bulb-go-off-img.png) |
+
+---
+
+## 🧠 Concepts Used
+
+- DOM Manipulation
+- Event Handling in JavaScript
+- Dynamic styling with JavaScript
+- Bootstrap for responsive design
+- Basic UI interactivity
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
+- Bootstrap 4
+
+---
+
+## 📂 Project Structure
+
+Lights-On-Off-Project/
+│
+├── index.html # Main HTML file
+├── style.css # Custom styles
+└── script.js # JavaScript functionality
+
+
+---
+
+## 📌 Features
+
+- Switch between ON/OFF states using buttons
+- Dynamically change images of a bulb and cat
+- Responsive design with Bootstrap
+- Interactive visual feedback for button clicks
+
+---
+
+## ▶️ How to Run Locally
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/<your-username>/lights-on-off.git
+   cd lights-on-off
