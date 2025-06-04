@@ -10,7 +10,7 @@ You can view the project live here: **[Add GitHub Pages or Netlify Link if hoste
 
 ## 📸 Preview
 
-|https://github.com/user-attachments/assets/cef8b42f-c5ee-4f7a-b222-782f70265a4b|
+https://github.com/user-attachments/assets/cef8b42f-c5ee-4f7a-b222-782f70265a4b
 
 
 ## 🧠 Concepts Used
