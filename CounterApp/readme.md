@@ -4,15 +4,12 @@ A simple and interactive counter web application that allows users to **incremen
 
 ---
 
-## 🚀 Live Demo
-
-> [Add your live link here if hosted on GitHub Pages, Netlify, etc.]
-
----
-
-## 📸 Preview
+## 
 
 
+📸 Preview
+
+https://github.com/user-attachments/assets/110c65d5-8981-4491-a1c9-1c056c2d7719
 
 ---
 
