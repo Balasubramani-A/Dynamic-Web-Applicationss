@@ -10,14 +10,7 @@ You can view the project live here: **[Add GitHub Pages or Netlify Link if hoste
 
 ## 📸 Preview
 
-| Light On | Light Off |
-|----------|-----------|
-| ![On](https://d1tgh8fmlzexmh.cloudfront.net/ccbp-dynamic-webapps/bulb-go-on-img.png) | ![Off](https://d1tgh8fmlzexmh.cloudfront.net/ccbp-dynamic-webapps/bulb-go-off-img.png) |
-
----
-
-
-https://github.com/user-attachments/assets/cef8b42f-c5ee-4f7a-b222-782f70265a4b
+|https://github.com/user-attachments/assets/cef8b42f-c5ee-4f7a-b222-782f70265a4b|
 
 
 ## 🧠 Concepts Used
