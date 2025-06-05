@@ -2,11 +2,6 @@
 
 This is a simple and interactive dynamic web application that toggles between "Lights ON" and "Lights OFF" states. It visually switches a bulb and a cat image based on the button clicks, demonstrating dynamic DOM manipulation using JavaScript.
 
-## 🚀 Live Demo
-
-You can view the project live here: **[Add GitHub Pages or Netlify Link if hosted]**
-
----
 
 ## 📸 Preview
 
