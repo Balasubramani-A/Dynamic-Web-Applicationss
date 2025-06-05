@@ -8,6 +8,7 @@ This is a simple and interactive dynamic web application that toggles between "L
 https://github.com/user-attachments/assets/cef8b42f-c5ee-4f7a-b222-782f70265a4b
 
 
+
 ## 🧠 Concepts Used
 
 - DOM Manipulation
