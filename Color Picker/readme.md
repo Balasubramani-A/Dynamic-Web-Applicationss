@@ -14,6 +14,10 @@ A simple and interactive web app that allows users to change the background colo
 - Real-time display of selected hex code
 - Responsive and minimal UI with Bootstrap
 
-## 📸 Screenshot
+## 📸 Live Video
 
-![Color Picker](https://d1tgh8fmlzexmh.cloudfront.net/ccbp-dynamic-webapps/color-picker-img.png)
+https://github.com/user-attachments/assets/4ecb23bf-3bff-4d85-b552-f53b9c91e693
+
+
+
+
