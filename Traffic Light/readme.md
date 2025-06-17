@@ -16,4 +16,6 @@ A simple interactive web app that simulates a traffic light using buttons. Each 
 
 ## 📸 Screenshot
 
-![Traffic Light](https://d1tgh8fmlzexmh.cloudfront.net/ccbp-dynamic-webapps/traffic-light-img.png)
+https://github.com/user-attachments/assets/e140412c-13be-43bd-afad-bd8fd1719613
+
+
