@@ -16,4 +16,6 @@ An interactive web tool to resize an image dynamically using "+" and "−" butto
 
 ## 📸 Screenshot
 
-![Image Resizer](https://d1tgh8fmlzexmh.cloudfront.net/ccbp-dynamic-webapps/sizing-an-image-img.png)
+https://github.com/user-attachments/assets/eca87d88-f534-415f-bf43-a22277fc1007
+
+
