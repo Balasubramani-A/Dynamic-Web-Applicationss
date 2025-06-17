@@ -16,4 +16,5 @@ A simple and interactive web app that calculates the tip amount and total bill b
 
 ## 📸 Screenshot
 
-![Tip Calculator](https://d1tgh8fmlzexmh.cloudfront.net/ccbp-dynamic-webapps/tip-calculator-img.png)
+https://github.com/user-attachments/assets/682ccbd0-449d-43ae-ac48-1b4047eaca8d
+
