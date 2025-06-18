@@ -17,7 +17,3 @@ A simple and interactive web app that allows users to change the background colo
 ## 📸 Live Video
 
 https://github.com/user-attachments/assets/4ecb23bf-3bff-4d85-b552-f53b9c91e693
-
-
-
-
