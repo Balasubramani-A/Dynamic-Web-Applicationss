@@ -15,6 +15,7 @@ function onIncrement() {
   counterElement.textContent = updatedCounterValue;
 }
 
+//Decrease function
 function onDecrement() {
   let previousCounterValue = counterElement.textContent;
   let updatedCounterValue = parseInt(previousCounterValue) - 1;
