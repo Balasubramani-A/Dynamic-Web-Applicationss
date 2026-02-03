@@ -6,20 +6,18 @@ containerElement.appendChild(h1Element);
 
 let buttonElement = document.createElement('button');
 buttonElement.textContent = "Change Color";
-
 containerElement.appendChild(buttonElement);
 
-buttonElement.onclick = function() {
+buttonElement.onclick = function () {
     h1Element.textContent = "4.0 Technologies";
     h1Element.classList.add("heading");
-}
+};
 
 let removeButtonElement = document.createElement('button');
 removeButtonElement.textContent = "Remove Color";
-
 containerElement.appendChild(removeButtonElement);
 
-removeButtonElement.onclick = function() {
+removeButtonElement.onclick = function () {
     h1Element.textContent = "Web Technologies";
     h1Element.classList.remove("heading");
-}
+};
